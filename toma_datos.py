@@ -181,7 +181,7 @@ def play_video():
 class Line:
     def __init__(self):
         global number
-        number.get_
+        
     def line_design1(self):
         for i in range(3): 
             number+=2
