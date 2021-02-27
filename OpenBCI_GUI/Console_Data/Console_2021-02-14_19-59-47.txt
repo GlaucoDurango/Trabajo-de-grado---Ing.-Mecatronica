@@ -1,0 +1,183 @@
+Console Log Started at Local Time: 2021-02-14_19-59-47
+Screen Resolution: 1920 X 1080
+Operating System: Linux
+Welcome to the Processing-based OpenBCI GUI!
+For more information, please visit: https://openbci.github.io/Documentation/docs/06Software/01-OpenBCISoftware/GUIDocs
+OpenBCI_GUI::Setup: GUI v5 Sample Data exists in Documents folder.
+ControlP5 2.3.1 infos, comments, questions at http://www.sojamo.de/libraries/controlP5
+TopNav: Internet Connection Successful
+Local Version: v5.0.3, Latest Version: v5.0.3
+GUI is up to date!
+The file "/home/trabajogrado/Documents/OpenBCI_GUI/Settings/UserPlaybackHistory.json" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+OpenBCI_GUI::Control Panel: Playback history file not found or other error.
+null
+OpenBCI_GUI::Setup: Setup is complete!
+sourceList: click! 
+sourceList: click! 
+Channel count set to 4
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:SYNC_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: Output has been set to BioSemi Data Format (BDF+).
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+bleList: click! 
+[DEFAULT]: Ganglion Device Name = Ganglion-b403
+bleList: click! 
+[DEFAULT]: Ganglion Device Name = Ganglion-b403
+[DEFAULT]: Attempting to Start Session...
+initButtonPressed: Calling initSystem() after next draw()
+OpenBCI_GUI: Start session. Calling initSystem().
+
+
+=================================================
+||             INITIALIZING SYSTEM             ||
+=================================================
+
+MAC address for Ganglion is ef:29:33:6c:b1:8f
+Sending config string to board: n
+Channel count set to 4
+"Arial" is not available, so another font will be used. Use PFont.list() to show available fonts.
+InitSettings: Saving Default Settings to file!
+SessionSettings: 4 active widgets saved!
+[SUCCESS]: Session started!
+headPlot: computeWeightFactor: Ielec 0, solution complete with 2000 iterations. max_dVal = 1.0759383E-5
+headPlot: computeWeightFactor: Ielec 1, solution complete with 2000 iterations. max_dVal = 1.0493398E-5
+headPlot: computeWeightFactor: Ielec 2, solution complete with 2000 iterations. max_dVal = 8.711815E-5
+headPlot: computeWeightFactor: Ielec 3, solution complete with 2000 iterations. max_dVal = 8.860826E-5
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened BDF output file: /home/trabajogrado/Documents/OpenBCI_GUI/Recordings/OpenBCI-BDF-2021-02-14_20-02-48.bdf
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+OpenBCI_GUI: mousePressed: clicked in CP box
+[INFO]: Learn how to use this application and more at openbci.github.io/Documentation/
+openBCI_GUI: haltSystem: Halting system for reconfiguration of settings...
+[DEFAULT]: Data stream is already stopped.
+SessionSettings: 4 active widgets saved!
+Closed the temp data file. Now opening a new file.
+closeFile: Started...
+closeFile: Made file
+writeHeader: Writing 37 Seconds of Data to BDF
+closeFile: Wrote header
+writeData: started...
+closeFile: Data written. Closing new BDF+ file.
+closeFile: wrote data
+closeFile: BDF+ temporary file deleted.
+[DEFAULT]: BDF+ file has been made.
+The file "/home/trabajogrado/Documents/OpenBCI_GUI/Settings/UserPlaybackHistory.json" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+OpenBCI_GUI::Control Panel: Playback history file not found or other error.
+null
+[DEFAULT]: Output has been set to OpenBCI Data Format (CSV).
+bleList: click! 
+[DEFAULT]: Ganglion Device Name = Ganglion-b403
+[DEFAULT]: Attempting to Start Session...
+initButtonPressed: Calling initSystem() after next draw()
+OpenBCI_GUI: Start session. Calling initSystem().
+
+
+=================================================
+||             INITIALIZING SYSTEM             ||
+=================================================
+
+MAC address for Ganglion is ef:29:33:6c:b1:8f
+Sending config string to board: n
+Channel count set to 4
+InitSettings: Saving Default Settings to file!
+SessionSettings: 4 active widgets saved!
+[SUCCESS]: Session started!
+headPlot: computeWeightFactor: Ielec 0, solution complete with 2000 iterations. max_dVal = 1.0759383E-5
+headPlot: computeWeightFactor: Ielec 1, solution complete with 2000 iterations. max_dVal = 1.0493398E-5
+headPlot: computeWeightFactor: Ielec 2, solution complete with 2000 iterations. max_dVal = 8.711815E-5
+headPlot: computeWeightFactor: Ielec 3, solution complete with 2000 iterations. max_dVal = 8.860826E-5
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: /home/trabajogrado/Documents/OpenBCI_GUI/Recordings/OpenBCISession_2021-02-14_20-04-12/OpenBCI-RAW-2021-02-14_20-04-42.txt
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+OpenBCI_GUI: mousePressed: clicked in CP box
+[INFO]: Learn how to use this application and more at openbci.github.io/Documentation/
+openBCI_GUI: haltSystem: Halting system for reconfiguration of settings...
+[DEFAULT]: Data stream is already stopped.
+SessionSettings: 4 active widgets saved!
+The file "/home/trabajogrado/Documents/OpenBCI_GUI/Settings/UserPlaybackHistory.json" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+OpenBCI_GUI::Control Panel: Playback history file not found or other error.
+null
+bleList: click! 
+[DEFAULT]: Ganglion Device Name = Ganglion-b403
+[DEFAULT]: Autogenerated Session Name based on current date & time.
+[DEFAULT]: Attempting to Start Session...
+initButtonPressed: Calling initSystem() after next draw()
+OpenBCI_GUI: Start session. Calling initSystem().
+
+
+=================================================
+||             INITIALIZING SYSTEM             ||
+=================================================
+
+MAC address for Ganglion is ef:29:33:6c:b1:8f
+Sending config string to board: n
+Channel count set to 4
+InitSettings: Saving Default Settings to file!
+SessionSettings: 4 active widgets saved!
+[SUCCESS]: Session started!
+headPlot: computeWeightFactor: Ielec 0, solution complete with 2000 iterations. max_dVal = 1.0759383E-5
+headPlot: computeWeightFactor: Ielec 1, solution complete with 2000 iterations. max_dVal = 1.0493398E-5
+headPlot: computeWeightFactor: Ielec 2, solution complete with 2000 iterations. max_dVal = 8.711815E-5
+headPlot: computeWeightFactor: Ielec 3, solution complete with 2000 iterations. max_dVal = 8.860826E-5
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: /home/trabajogrado/Documents/OpenBCI_GUI/Recordings/OpenBCISession_2021-02-14_20-05-43/OpenBCI-RAW-2021-02-14_20-05-54.txt
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+GUI Settings: Expert Mode On
+[DEFAULT]: Expert Mode ON: All keyboard shortcuts and features are enabled!
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: /home/trabajogrado/Documents/OpenBCI_GUI/Recordings/OpenBCISession_2021-02-14_20-05-43/OpenBCI-RAW-2021-02-14_20-06-37.txt
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened ODF output file: /home/trabajogrado/Documents/OpenBCI_GUI/Recordings/OpenBCISession_2021-02-14_20-05-43/OpenBCI-RAW-2021-02-14_20-06-53.txt
+[DEFAULT]: openBCI_GUI: stopButton was pressed. Stopping data transfer, wait a few seconds.
+Brainflow stop streaming
+[DEFAULT]: Data stream stopped.
+OpenBCI_GUI: mousePressed: outside of CP clicked
+SHUTDOWN HOOK
+openBCI_GUI: haltSystem: Halting system for reconfiguration of settings...
+[DEFAULT]: Data stream is already stopped.
+SessionSettings: 4 active widgets saved!
+X11Util.Display: Shutdown (JVM shutdown: true, open (no close attempt): 2/2, reusable (open, marked uncloseable): 0, pending (open in creation order): 2)
+X11Util: Open X11 Display Connections: 2
+X11Util: Open[0]: NamedX11Display[:0, 0x7efcfc0012d0, refCount 1, unCloseable false]
+X11Util: Open[1]: NamedX11Display[:0, 0x7efcfc010ba0, refCount 1, unCloseable false]

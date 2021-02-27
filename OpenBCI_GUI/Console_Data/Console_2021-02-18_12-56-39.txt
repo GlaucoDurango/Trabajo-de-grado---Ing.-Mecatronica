@@ -1,0 +1,96 @@
+Console Log Started at Local Time: 2021-02-18_12-56-39
+Screen Resolution: 1920 X 1080
+Operating System: Linux
+Welcome to the Processing-based OpenBCI GUI!
+For more information, please visit: https://openbci.github.io/Documentation/docs/06Software/01-OpenBCISoftware/GUIDocs
+OpenBCI_GUI::Setup: GUI v5 Sample Data exists in Documents folder.
+ControlP5 2.3.1 infos, comments, questions at http://www.sojamo.de/libraries/controlP5
+TopNav: Internet Connection Successful
+Local Version: v5.0.3, Latest Version: v5.0.3
+GUI is up to date!
+The file "/home/tg/Documents/OpenBCI_GUI/Settings/UserPlaybackHistory.json" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+OpenBCI_GUI::Control Panel: Playback history file not found or other error.
+null
+OpenBCI_GUI::Setup: Setup is complete!
+sourceList: click! 
+Channel count set to 4
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+openbci_gui_helpers.GanglionError: Error in scan for ganglions:PORT_OPEN_ERROR
+	at openbci_gui_helpers.GUIHelper.scan_for_ganglions(GUIHelper.java:69)
+	at OpenBCI_GUI$BLEBox$1.run(OpenBCI_GUI.java:5248)
+SHUTDOWN HOOK
+X11Util.Display: Shutdown (JVM shutdown: true, open (no close attempt): 2/2, reusable (open, marked uncloseable): 0, pending (open in creation order): 2)
+X11Util: Open X11 Display Connections: 2
+X11Util: Open[0]: NamedX11Display[:0, 0x7f34640012c0, refCount 1, unCloseable false]
+X11Util: Open[1]: NamedX11Display[:0, 0x7f3464019d30, refCount 1, unCloseable false]

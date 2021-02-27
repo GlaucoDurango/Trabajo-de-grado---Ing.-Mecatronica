@@ -1,0 +1,10 @@
+[2021-02-14 19:59:04.154] [brainflow_logger] [info] incoming json: {"ip_address":"","mac_address":"ef:29:33:6c:b1:8f","serial_port":"/dev/ttyACM0","ip_port":6677,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":""}
+[2021-02-14 19:59:04.154] [brainflow_logger] [debug] use dyn lib: /home/trabajogrado/Downloads/openbcigui/OpenBCI_GUI/libGanglionLib.so
+[2021-02-14 19:59:04.155] [brainflow_logger] [debug] Library is loaded
+[2021-02-14 19:59:04.155] [brainflow_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2021-02-14 19:59:04.155] [brainflow_logger] [debug] ganglionlib initialized
+[2021-02-14 19:59:04.155] [brainflow_logger] [info] search for ef:29:33:6c:b1:8f
+[2021-02-14 19:59:05.513] [brainflow_logger] [debug] Trying to config Ganglion with n
+[2021-02-14 19:59:18.480] [brainflow_logger] [debug] use stub streamer
+[2021-02-14 19:59:18.480] [brainflow_logger] [info] use command b to start streaming
+[2021-02-14 19:59:18.542] [brainflow_logger] [debug] start streaming

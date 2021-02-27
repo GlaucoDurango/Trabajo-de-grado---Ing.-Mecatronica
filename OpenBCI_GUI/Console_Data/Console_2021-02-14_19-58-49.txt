@@ -1,0 +1,71 @@
+Console Log Started at Local Time: 2021-02-14_19-58-49
+Screen Resolution: 1920 X 1080
+Operating System: Linux
+Welcome to the Processing-based OpenBCI GUI!
+For more information, please visit: https://openbci.github.io/Documentation/docs/06Software/01-OpenBCISoftware/GUIDocs
+OpenBCI_GUI::Setup: Copying sample data to Documents/OpenBCI_GUI/Sample_Data
+OpenBCI_GUI::Setup: Created \Documents\OpenBCI_GUI\Recordings\
+ControlP5 2.3.1 infos, comments, questions at http://www.sojamo.de/libraries/controlP5
+TopNav: Internet Connection Successful
+Local Version: v5.0.3, Latest Version: v5.0.3
+GUI is up to date!
+The file "/home/trabajogrado/Documents/OpenBCI_GUI/Settings/UserPlaybackHistory.json" is missing or inaccessible, make sure the URL is valid or that the file has been added to your sketch and is readable.
+OpenBCI_GUI::Control Panel: Playback history file not found or other error.
+null
+OpenBCI_GUI::Setup: Setup is complete!
+sourceList: click! 
+Channel count set to 4
+[DEFAULT]: BLE Devices Refreshing
+ControlPanel: Found BLED112 Dongle on COM port: /dev/ttyACM0
+[DEFAULT]: Output has been set to BioSemi Data Format (BDF+).
+bleList: click! 
+[DEFAULT]: Ganglion Device Name = null
+bleList: click! 
+[DEFAULT]: Ganglion Device Name = Ganglion-b403
+bleList: click! 
+[DEFAULT]: Ganglion Device Name = Ganglion-b403
+[DEFAULT]: Attempting to Start Session...
+initButtonPressed: Calling initSystem() after next draw()
+OpenBCI_GUI: Start session. Calling initSystem().
+
+
+=================================================
+||             INITIALIZING SYSTEM             ||
+=================================================
+
+MAC address for Ganglion is ef:29:33:6c:b1:8f
+Sending config string to board: n
+Channel count set to 4
+"Arial" is not available, so another font will be used. Use PFont.list() to show available fonts.
+InitSettings: Saving Default Settings to file!
+SessionSettings: 4 active widgets saved!
+[SUCCESS]: Session started!
+headPlot: computeWeightFactor: Ielec 0, solution complete with 2000 iterations. max_dVal = 1.0759383E-5
+headPlot: computeWeightFactor: Ielec 1, solution complete with 2000 iterations. max_dVal = 1.0493398E-5
+headPlot: computeWeightFactor: Ielec 2, solution complete with 2000 iterations. max_dVal = 8.711815E-5
+headPlot: computeWeightFactor: Ielec 3, solution complete with 2000 iterations. max_dVal = 8.860826E-5
+New widget [4] selected for container...
+Your cursor is in Ganglion Signal
+[DEFAULT]: openBCI_GUI: startButton was pressed. Starting data transfer, wait a few seconds.
+Brainflow start streaming
+[DEFAULT]: Data stream started.
+OpenBCI_GUI: openNewLogFile: opened BDF output file: /home/trabajogrado/Documents/OpenBCI_GUI/Recordings/OpenBCI-BDF-2021-02-14_19-59-18.bdf
+[DEFAULT]: Network Stream Started
+[DEFAULT]: Network Stream Stopped
+[DEFAULT]: Network Stream Started
+[DEFAULT]: Network Stream Stopped
+ComPort: /dev/ttyACM0
+Baudrate: 57600
+Stream update numChan to 4
+nPointsPerUpdate 8
+dataToSend len: 32
+Failed to close SERIAL/COM port /dev/ttyACM0
+[DEFAULT]: Network Stream Started
+Networking: StringList size=4 [ "TimeSeries", "/dev/ttyACM0", "57600", "false" ]
+[DEFAULT]: Successfully opened SERIAL/COM (57600): /dev/ttyACM0
+WARNING: Lost 93 Samples Between 55-2
+WARNING: Lost 90 Samples Between 2-48
+WARNING: The sample index 127 is not in the list of possible sample indices.
+WARNING: Lost 202 Samples Between 83-127
+WARNING: The sample index 127 is not in the list of possible sample indices.
+WARNING: Lost 202 Samples Between 127-127
